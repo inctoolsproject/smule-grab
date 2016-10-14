@@ -1,5 +1,7 @@
 # SMULE Grab #
 
+You can find a demo [here](http://wptest.causo.info/smule-grab/)
+
 ## Usage ##
 
 Clone the code or [download](https://github.com/rixlabs/smule-grab/archive/master.zip) the zip file 
