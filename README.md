@@ -2,6 +2,8 @@
 
 ## Usage ##
 
+Clone the code or [download](https://github.com/rixlabs/smule-grab/archive/master.zip) the zip file 
+
 Install the plugin and than inside a post or a page 
 
 
